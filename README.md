@@ -48,5 +48,7 @@ Advanced Cloud Deployment
 <br>
 
 <a href="https://yashusportfolio.netlify.app/">Portfolio</a>
+<a href="https://www.linkedin.com/in/yashaswini-m-n">LinkedIn</a>
+
 
 
