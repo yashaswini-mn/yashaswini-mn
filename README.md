@@ -1,16 +1,30 @@
-## Hi there 👋
+👩‍💻 Yashaswini | Full Stack Developer
+🚀 Passionate MERN Stack Developer | 🌐 Dynamic Website Builder
 
-<!--
-**yashaswini-mn/yashaswini-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Hi there! 👋 I'm Yashaswini, a creative and detail-oriented Full Stack Developer with a knack for building scalable, user-friendly, and responsive web applications.
 
-Here are some ideas to get you started:
+💡 About Me
+🌟 Expertise: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+🌟 Skills: HTML, CSS, JavaScript, Tailwind, Bootstrap
+🌟 Focus: Dynamic and user-centric website development
+🔧 Technologies I Use
+Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Version Control: Git, GitHub
+Deployment: Netlify, Vercel
+🌟 What I Do
+✨ Build dynamic and responsive websites
+✨ Design seamless user interfaces
+✨ Implement robust backend systems
+✨ Deliver innovative web solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+Next.js
+TypeScript
+Advanced Cloud Deployment
+📫 Let's Connect!
+Portfolio: [Your Portfolio URL]
+LinkedIn: [Your LinkedIn URL]
+GitHub: [Your GitHub Profile URL]
+
