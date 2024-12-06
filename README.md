@@ -5,20 +5,21 @@
 
 💡 About Me
 <br>
-<li>
 🌟 Expertise: MERN Stack (MongoDB, Express.js, React.js, Node.js)
-🌟 Skills: HTML, CSS, JavaScript, Tailwind, Bootstrap
+<br>
+🌟 Skills: HTML, CSS, JavaScript, Tailwind, Bootstrap.
+<br>
 🌟 Focus: Dynamic and user-centric website development
-</li>
+
 🔧 Technologies I Use
 <br>
-<li>
+
 Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS
 Backend: Node.js, Express.js
 Database: MongoDB
 Version Control: Git, GitHub
 Deployment: Netlify, Vercel
-</li>
+
 🌟 What I Do
 <br>
 <li>
