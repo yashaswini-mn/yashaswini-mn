@@ -1,7 +1,7 @@
-👩‍💻 Yashaswini | Full Stack Developer
-🚀 Passionate MERN Stack Developer | 🌐 Dynamic Website Builder
+# 👩‍💻 Yashaswini | Full Stack Developer
+# 🚀 Passionate MERN Stack Developer | 🌐 Dynamic Website Builder
 
-##Hi there! 👋 I'm Yashaswini, a creative and detail-oriented Full Stack Developer with a knack for building scalable, user-friendly, and responsive web applications.
+## Hi there! 👋 I'm Yashaswini, a creative and detail-oriented Full Stack Developer with a knack for building scalable, user-friendly, and responsive web applications.
 
 💡 About Me
 🌟 Expertise: MERN Stack (MongoDB, Express.js, React.js, Node.js)
