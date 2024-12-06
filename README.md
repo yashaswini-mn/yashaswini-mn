@@ -5,6 +5,7 @@
 
 💡 About Me
 <br>
+
 🌟 Expertise: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 <br>
 🌟 Skills: HTML, CSS, JavaScript, Tailwind, Bootstrap.
@@ -15,29 +16,34 @@
 <br>
 
 Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS
+<br>
 Backend: Node.js, Express.js
+<br>
 Database: MongoDB
+<br>
 Version Control: Git, GitHub
+<br>
 Deployment: Netlify, Vercel
 
 🌟 What I Do
 <br>
-<li>
+
 ✨ Build dynamic and responsive websites
+<br>
 ✨ Design seamless user interfaces
+<br>
 ✨ Implement robust backend systems
+<br>
 ✨ Deliver innovative web solutions
-</li>
+
 
 🌱 Currently Learning
 <br>
-<li>
+
 Next.js
-TypeScript
+<br>
 Advanced Cloud Deployment
-</li>
+
 📫 Let's Connect!
-Portfolio: [https://yashusportfolio.netlify.app/]
-LinkedIn: [Your LinkedIn URL]
-GitHub: [Your GitHub Profile URL]
+
 
